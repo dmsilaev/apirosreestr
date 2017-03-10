@@ -1,11 +1,7 @@
 require "spec_helper"
 
 describe Apirosreestr do
-  it "has a version number" do
-    expect(Apirosreestr::VERSION).not_to be nil
-  end
-
-  it "does something useful" do
-    expect(false).to eq(true)
+  it 'works' do
+    expect(described_class).to be
   end
 end
