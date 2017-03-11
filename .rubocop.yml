@@ -3,8 +3,7 @@ require: rubocop-rspec
 
 Metrics/LineLength:
   Exclude:
-    - telegram-bot-ruby.gemspec
-    - examples/*.rb
+    - apirosreestr.gemspec
 
 Style/EmptyMethod:
   EnforcedStyle: expanded

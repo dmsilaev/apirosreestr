@@ -2,8 +2,8 @@
 
 Ruby wrapper for Russian Rosreestr API [https://apirosreestr.ru/api/](https://apirosreestr.ru/api/)
 
-
-TODO: Delete this and the text above, and describe your gem
+[![Code Climate](https://codeclimate.com/github/dmsilaev/apirosreestr/badges/gpa.svg)](https://codeclimate.com/github/dmsilaev/apirosreestr)
+[![Build Status](https://travis-ci.org/dmsilaev/apirosreestr.svg?branch=master)](https://travis-ci.org/atipugin/telegram-bot-ruby)
 
 ## Installation
 
