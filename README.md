@@ -23,7 +23,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+api = Apirosreestr::Api.new(YOUR_TOKEN)
+endpoint = 'cadaster/search'
+#list of endpoints [https://apirosreestr.ru/api/](https://apirosreestr.ru/api/)
+api.call(endpoint, {query: 'Курск, Косухина 38, кв 19'})
+```
 
 ## Development
 

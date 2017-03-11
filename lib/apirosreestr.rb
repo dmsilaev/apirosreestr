@@ -1,4 +1,14 @@
+require 'virtus'
+require 'logger'
+require 'json'
+require 'faraday'
+require 'pry'
+
 require "apirosreestr/version"
+require "apirosreestr/api"
+require "apirosreestr/client"
+require "apirosreestr/configuration"
+require "apirosreestr/exceptions"
 
 module Apirosreestr
   class << self

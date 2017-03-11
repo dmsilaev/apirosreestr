@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "apirosreestr"
   spec.version       = Apirosreestr::VERSION
   spec.authors       = ["Dmitry Silaev"]
-  spec.email         = ["dmsilaev@icloud.com"]
+  spec.email         = ["dmsilaev@yandex.ru"]
 
   spec.summary       = "Ruby wrapper for Russian Rosreestr API"
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
